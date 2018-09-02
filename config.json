@@ -2,7 +2,7 @@
   "msg": "成功",
   "code": 200,
   "dataObj": {
-    "isOpen":true
+    "isOpen":false
   },
   "lastIndex": 258
 }
